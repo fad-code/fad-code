@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fadhil
 
-I'm a frontend developer with a passion for building **beautiful**, **interactive**, and **responsive** user interfaces. With a background in engineering and digital marketing, I love combining clean design with functional code that drives real results.
+I'm a frontend developer with a passion for building **beautiful**, **interactive**, and **responsive** user interfaces.I love combining clean design with functional code that drives real results.
 
 ## 🛠️ Tech Stack
 
