@@ -14,7 +14,7 @@ I'm a frontend developer with a passion for building **beautiful**, **interactiv
 
 | Project | Description | Stack | Live |
 |--------|-------------|--------|------|
-| **[Chefku](https://chefku.vercel.app/)** | AI recipe generator powered by OpenAI API | React, Javascript, Framer Motion | ✅ |
+| **[Chefku](https://chefku.vercel.app/)** | Recipe Generator with local API | React, Javascript, Framer Motion | ✅ |
 | **[Vanku](https://vanku.vercel.app/)** | Van rental UI with animated carousel | React, Javascript, Vite | ✅ |
 | **[Travel Journal](https://travelmania-eight.vercel.app/)** | Minimalist blog for travel journaling | React, Tailwind | ✅ |
 | **[Jimmy Burger](https://order-kuy.vercel.app/)** | Food ordering UI for burger shop | React, Tailwind | ✅ |
