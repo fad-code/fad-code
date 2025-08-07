@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Fadhil
 
-<!--
-**fad-code/fad-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer with a passion for building **beautiful**, **interactive**, and **responsive** user interfaces. With a background in engineering and digital marketing, I love combining clean design with functional code that drives real results.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks**: React, Next.js, Node.js
+- **Styling**: Tailwind CSS, Framer Motion
+- **Tools**: Git, GitHub, Vercel, Netlify, JSON
+- **Specials**: Swipeable animations, AI API Integration, Component-based UI
+
+## 🚀 Highlight Projects
+
+| Project | Description | Stack | Live |
+|--------|-------------|--------|------|
+| **[Chefku](https://chefku.vercel.app/)** | AI recipe generator powered by OpenAI API | React, Tailwind, Framer Motion | ✅ |
+| **[Vanku](https://vanku.vercel.app/)** | Van rental UI with animated carousel | React, Tailwind, Vite | ✅ |
+| **[Travel Journal](https://travelmania-eight.vercel.app/)** | Minimalist blog for travel journaling | React, Tailwind | ✅ |
+| **[Jimmy Burger](https://order-kuy.vercel.app/)** | Food ordering UI for burger shop | React, Tailwind | ✅ |
+| **[Twitt](https://twitt-lac.vercel.app/)** | Twitter-inspired social UI prototype | React, Tailwind | ✅ |
+| **[Mental Journey](https://mental-journey.netlify.app/)** | Journaling app for self-care reflections | React, Tailwind | ✅ |
+
+## 🎯 Currently Working On
+
+- Improving animation flow in multi-step UIs
+- Building a component library using Tailwind + Framer Motion
+- Learning advanced TypeScript for larger projects
+
+## 📫 Let's Connect
+
+- 📧 Email: mfadhilah29@gmail.com
+- 🌐 Portfolio: [https://portofoliomania-fadhil-rho.vercel.app](https://portofoliomania-fadhil-rho.vercel.app)
+- 💼 LinkedIn: [Muhammad Fadhilah](https://www.linkedin.com/in/muhammad-fadhilah/)
+
+---
+
+
